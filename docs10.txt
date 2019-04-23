@@ -1,3 +1,5 @@
 This is a new documentation for a kitty cat feeding device.
 
 Note that this feeding dish is not safe to use for puppy dogs.
+
+I'm adding one more line to practice changing files.
